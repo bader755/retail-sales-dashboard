@@ -1,0 +1,7 @@
+In the Python stage of the project, we conducted data analysis and visualization using the powerful libraries Pandas and Matplotlib. 
+We began by importing and cleaning the dataset using Pandas, ensuring all columns were properly formatted for analysis, especially the sale_date column which we converted into datetime format.
+From there, we extracted the month names to identify seasonal trends. We performed grouping operations using groupby() to aggregate total sales by month, giving us a clear view of how revenue fluctuated throughout the year.
+We then visualized the results using Matplotlib, creating a bar chart that displayed monthly sales performance in a visually compelling way.
+The chart helped reveal sales peaks and low-performing months, providing valuable business insight. 
+Additionally, we identified potential outliers and variations in sales using descriptive statistics.
+This step was crucial for transforming raw data into meaningful visual insights, making Python a key tool in the analytical pipeline of the project.
